@@ -1,4 +1,5 @@
 Este es un archivo de documentacion para el repositorio 
 
-### autores
+### Autores
 **Juan Pablo Ortiz**
+Jose Daniel Muñoz
